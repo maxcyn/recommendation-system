@@ -122,5 +122,3 @@ data/                raw and processed data (gitignored)
 results/             run outputs (gitignored)
 REPORT.md            full findings write-up
 ```
-
-`AGENTS.md` (gitignored) is the working decision log kept during the project: every choice, alternative and assumption with its defence, for agent-assisted continuation.
