@@ -1,0 +1,18 @@
+# data and run outputs (regenerable; data files not committed)
+data/
+results/
+logs/
+archive.zip
+AGENTS.md
+
+# python
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# editor / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
